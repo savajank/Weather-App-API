@@ -1,0 +1,20 @@
+body {display: flex;justify-content: center;align-items: center;height: 100vh;margin: 0;background: #873;font-family: 'Open Sans', sans-serif;
+background-image: url(https://picsum.photos/id/600/1200/600);}
+
+.card {
+    background: black;
+    opacity: 50%;
+    border-radius: 20px;
+    color:azure;
+    padding: 2cm;
+    width: 100%;
+    max-width: 420px;
+    margin: 1cm;
+}
+
+.search{
+    display: flex;
+    align-self: center;
+    border-radius: 4px;
+    justify-content: center;
+}
